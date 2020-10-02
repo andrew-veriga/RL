@@ -3,7 +3,7 @@ setup(
     url='https://github.com/andrew-veriga/RL-glue.git',
     author='AV',
     author_email='andrew.veriga@gmail.com',
-    #packages=find_packages(),
+    packages=find_packages(),
     install_requires=[],
     version=0.1,
     license='MIT',
