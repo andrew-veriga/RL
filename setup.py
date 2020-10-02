@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='RlGlue',
+    name='RlGlue_lab',
     url='https://github.com/andrew-veriga/RL-glue.git',
     author='AV',
     author_email='andrew.veriga@gmail.com',
@@ -9,6 +9,6 @@ setup(
     install_requires=[],
     version=0.1,
     license='MIT',
-    description='The rl-glue library used in the RL Specialization on Coursera',
-    long_description='todo',
+    description='The rl-glue library used in the RL labs',
+    long_description='todo'
 )
