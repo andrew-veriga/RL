@@ -1,3 +1,5 @@
+from setuptools import setup, find_packages
+
 setup(
     name='RlGlue',
     url='https://github.com/andrew-veriga/RL-glue.git',
